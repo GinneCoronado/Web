@@ -67,7 +67,7 @@ const Hero: React.FC = () => {
               <div className="absolute inset-0 bg-pink-50 rounded-[2.5rem] sm:rounded-[3rem] -rotate-3"></div>
               <img 
                 src="PerfilGinne.jpeg" 
-                alt="Ginne Coronado" 
+                alt="https://github.com/GinneCoronado/web/blob/main/images/PerfilGinne.jpeg" 
                 className="absolute inset-0 w-full h-full object-cover rounded-[2.5rem] sm:rounded-[3rem] shadow-2xl z-10"
               />
               
